@@ -52,4 +52,8 @@ document.addEventListener('DOMContentLoaded', () => {
             jump()
         }
     })
+
+    document.addEventListener('click', (e) => {
+            jump()
+    })
 })
